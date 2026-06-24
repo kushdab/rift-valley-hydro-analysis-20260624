@@ -1,0 +1,29 @@
+# R history and environment
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# R project files (keep .Rproj if desired)
+*.Rproj
+
+# Packrat / renv
+packrat/lib*/
+packrat/src/
+renv/library/
+renv/staging/
+
+# Generated output
+figures/
+*.png
+*.pdf
+*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
